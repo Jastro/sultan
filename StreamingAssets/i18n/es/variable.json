@@ -1,0 +1,67 @@
+{
+  "REDRAW_NOTICE": "<line-height=-2.1em><align=right><voffset=-2><size=120><link=\"redraw\"><sprite=25></link></size></voffset> <b>x</b><voffset=10><size=80>{1}</size></voffset>\t</align>\n</line-height>",
+  "REDRAW_NOTICE_NUMBER_NAME": "number_5",
+  "START_UI_START_GAME_BUTTON_BG": "ss://i18n/zhCN/ui/start_ui_start_game_button_bg.png",
+  "RITE_PANEL_TITLE": "{0}",
+  "RITE_PANEL_OPEN_TIPS_CONTENT": "<size=100><sprite=35></size><color=#FF0000><indent=120>{0}</indent></color>\n",
+  "RITE_PANEL_TIPS_TEXT_HEADER": "<line-height=100%>\n<align=center><sprite=3></align>\n",
+  "RITE_PANEL_TIPS_TEXT_ICON": "<size=100><sprite=12></size><color=#FCE29A>",
+  "RITE_PANEL_TIPS_TEXT_CONTENT": "<indent=120>{0}</indent>\n",
+  "RITE_PANEL_TIPS_TEXT_FOOT": "</color></line-height>",
+  "MAIN_UI_TITLE_FORMAT": "<mspace=0.53em>{0}</voffset></size></mspace>",
+  "MAIN_UI_TITLE_NUMBER_FORMAT": "{0}<size=68><voffset=-0.05em>",
+  "MAIN_UI_TITLE_SUDAN_IN_RITE_NUMBER_FORMAT": "<color=#f0f0f0>{0}</color><size=68><voffset=-0.05em>",
+
+  "MAIN_UI_TITLE_NUMBER_FORMAT_RED": "<color=red>{0}</color>",
+  "MAIN_UI_TITLE_NUMBER_NOMAL": "<sprite=4><sprite=4><sprite=4><sprite=4><sprite=4><sprite=4>",
+  "MAIN_UI_TITLE_NUMBER_TODAY": "<sprite=4><sprite=4><sprite=4><sprite=4><sprite=4><sprite=2>",
+  "MAIN_UI_TITLE_NUMBER_LAST": "<sprite=6><sprite=6><sprite=6><sprite=6><sprite=6><sprite=6>",
+  "MAIN_UI_TITLE_NUMBER_RED": "<sprite=5><sprite=5><sprite=5><sprite=5><sprite=5><sprite=5>",
+  "MAIN_UI_TITLE_NUMBER_RED_TODAY": "<sprite=5><sprite=5><sprite=5><sprite=5><sprite=5><sprite=3>",
+
+  "START_UI_LOGO": "Image/logo/logo_en",
+  "OVER_UI_LOGO": "Image/logo/logo_en",
+  "MAIN_UI_LEAVE": "Image/main_new/Leave_en",
+  "NEXT_DAY": "Image/main_new/next_day_en",
+  "NEXT_DAY_HOVER": "Image/main_new/next_day_en_hover",
+
+  "SETTLEMENT_CURRENT_DICE": "Image/rite/en/settlement_current_dice",
+  "SETTLEMENT_NEED_ATTRIBUTE": "Image/rite/en/settlement_need_attribute",
+
+  "CARD_TAG_CAN_ADD_FORMAT": "{0}<indent=60%>{1}</indent>",
+  "CARD_TAG_CANNOT_ADD_FORMAT": "{0}<indent=60%>{1}</indent>",
+  "CARD_TAG_POSITIVE_VALUE_FORMAT": "<color=yellow>{0}</color>",
+  "CARD_TAG_NEGATIVE_VALUE_FORMAT": "<color=red>{0}</color>",
+  "CARD_TAG_ZERO_VALUE_FORMAT": "{0}",
+
+  "START_NOTICE_FORMAT": "<line-height=108%>{0}",
+
+  "STORY_TARGET_ITEM_UNFINISH_FORMAT": "{0} <color=red>({1})</color>",
+  "STORY_TARGET_ITEM_UNFINISH_NO_NUMBER_FORMAT": "{0}",
+  "STORY_TARGET_ITEM_FINISH_FORMAT": "<s> {0} </s>",
+
+  "PROMPT_RESULT_SEPERATOR": "\n",
+
+  "RITE_SETTLEMENT_RESULT_TEXT_FORMAT": "{0}",
+  "RITE_SETTLEMENT_RESULT_DICE_TEXT_FORMAT": "<sprite=2><indent=120>{0}",
+  "RITE_SETTLEMENT_RESULT_TITLE_FORMAT": "<sprite=1><indent=80><size=+10><font=\"Title SDF\">{0}</font></size></indent>",
+  "RITE_SETTLEMENT_RESULT_DICE_WAITING": "<sprite=2><indent=120><sprite anim=\"5,11,4\">  <sprite anim=\"14,15,3\"></indent>",
+  "RITE_SETTLEMENT_RESULT_NORMAL_WAITING": "<sprite=0><indent=80><sprite anim=\"5,11,3\">  <sprite anim=\"14,15,3\"></indent>",
+
+  "QUEST_FAVOUR_TEXT_FORMAT": "<indent=30%>\n\n\n<i><color=#A28E58>{0}</color></i>",
+
+  "PRESTIGE_CHANGE_POSITIVE": "<color=#FFDD00>+{0}</color>",
+  "PRESTIGE_CHANGE_NEGATIVE": "<color=#FF1600>-{0}</color>",
+
+  "OVER_STORY_TITLE_FORMAT": "<size=250%><color=#FFCF00>{0}</color></size>\n",
+
+  "OVER_PROMPT_FORMAT": "{0}\n{1}",
+
+  "slide/1-1": "slide/1-1",
+  "slide/1-2": "slide/1-2",
+  "slide/1-3": "slide/1-3",
+  "slide/1-4": "slide/1-4",
+
+  "gain": "shop/en/item_gain",
+  "buff": "shop/en/item_buff"
+}

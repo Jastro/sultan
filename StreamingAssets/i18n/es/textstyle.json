@@ -1,0 +1,410 @@
+{
+  "@CARD_TITLE": {
+    "font": "es/CardTitle SDF",
+    "size": 45,
+    "enableAutoSize": true,
+    "sizeRange": [40, 50],
+    "wordSpacing": -6,
+    "characterSpacing": -2
+  },
+  "@CARD_SUDAN_TITLE": {
+    "font": "es/CardTitle SDF",
+    "material": "es/CardTitle SDF - SudanTitle",
+    "size": 45,
+    "enableAutoSize": true,
+    "sizeRange": [40, 50],
+    "wordSpacing": -6,
+    "characterSpacing": -2
+  },
+  "@CARD_INFO_RARE_TEXT_FORMAT": {
+    "font": "Title SDF",
+    "size": 40,
+    "characterSpacing": -4
+  },
+  "@CARD_INFO_TAG_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "enableAutoSize": true,
+    "sizeRange": [26, 30],
+    "characterSpacing": -4
+  },
+  "@CARD_INFO_TAG_FIXED_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "size": 30,
+    "characterSpacing": -4
+  },
+  "@CARD_INFO_TAG_TITLE": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "size": 40,
+    "characterSpacing": -4
+  },
+  "@TIPS_FORMAT": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "css_size": {
+      "xs": 25,
+      "sm": 30,
+      "md": 34,
+      "lg": 38,
+      "xl": 46,
+      "xxl": 54
+    },
+    "characterSpacing": -4
+  },
+  "@RITE_TITLE": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "material": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF - RiteTitleNew",
+    "css_size": {
+      "xs": 30,
+      "sm": 35,
+      "md": 40,
+      "lg": 45,
+      "xl": 55,
+      "xxl": 65
+    },
+    "characterSpacing": -4
+  },
+  "@RITE_TITLE_BLACK": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "material": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF - RiteTitleNewBlack",
+    "css_size": {
+      "xs": 30,
+      "sm": 35,
+      "md": 40,
+      "lg": 45,
+      "xl": 55,
+      "xxl": 65
+    },
+    "characterSpacing": -4
+  },
+  "@RITE_PANEL_TITLE": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "material": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF - RiteTitle",
+    "size": 60,
+    "wordSpacing": -2
+  },
+  "@RITE_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 28,
+      "sm": 32,
+      "md": 36,
+      "lg": 40,
+      "xl": 48,
+      "xxl": 56
+    },
+    "characterSpacing": -4
+  },
+  "@RITE_SETTLEMENT_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 30,
+      "sm": 35,
+      "md": 40,
+      "lg": 45,
+      "xl": 55,
+      "xxl": 65
+    },
+    "characterSpacing": -4
+  },
+  "@PROMPT_TEXT": {
+    "font": "es/Altinn-DIN SDF",
+    "css_size": {
+      "xs": 40,
+      "sm": 45,
+      "md": 50,
+      "lg": 55,
+      "xl": 65,
+      "xxl": 75
+    },
+    "characterSpacing": -4,
+    "wordSpacing": 0,
+    "lineSpacing": -7,
+    "paragraphSpacing": -69
+  },
+  "@OPTION_ITEM_TEXT": {
+    "font": "es/Altinn-DIN SDF",
+    "css_size": {
+      "xs": 40,
+      "sm": 45,
+      "md": 50,
+      "lg": 55,
+      "xl": 65,
+      "xxl": 75
+    },
+    "characterSpacing": -4
+  },
+  "@WIZARD_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 40,
+      "sm": 45,
+      "md": 50,
+      "lg": 55,
+      "xl": 65,
+      "xxl": 75
+    },
+    "characterSpacing": -4
+  },
+  "@WIZARD_OPTION_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 30,
+      "sm": 35,
+      "md": 40,
+      "lg": 45,
+      "xl": 55,
+      "xxl": 65
+    },
+    "characterSpacing": -4
+  },
+  "@TAG_TEXT": {
+    "font": "Content SDF",
+    "css_size": {
+      "xs": 25,
+      "sm": 27,
+      "md": 30,
+      "lg": 33,
+      "xl": 38,
+      "xxl": 43
+    },
+    "characterSpacing": -4
+  },
+  "@POP_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 40,
+      "sm": 45,
+      "md": 50,
+      "lg": 55,
+      "xl": 65,
+      "xxl": 75
+    },
+    "characterSpacing": -4
+  },
+  "@RITE_SETTLEMENT_POP_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 28,
+      "sm": 32,
+      "md": 36,
+      "lg": 40,
+      "xl": 48,
+      "xxl": 56
+    },
+    "characterSpacing": -4
+  },
+  "@BIG_BUTTON": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "size": 72,
+    "characterSpacing": -4
+  },
+  "@BIG_BUTTON_AUTO_SIZE": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "enableAutoSize": true,
+    "sizeRange": [40, 72],
+    "characterSpacing": -4
+  },
+  "@BIG_BUTTON_HALF": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "size": 36,
+    "characterSpacing": -4
+  },
+  "@MAIN_BODY": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 40,
+      "sm": 45,
+      "md": 50,
+      "lg": 55,
+      "xl": 65,
+      "xxl": 75
+    },
+    "characterSpacing": -2
+  },
+  "@MAIN_BODY_HALF": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 20,
+      "sm": 23,
+      "md": 25,
+      "lg": 28,
+      "xl": 33,
+      "xxl": 38
+    }
+  },
+  "@MAIN_BODY_AUTO_SIZE": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "enableAutoSize": true,
+    "sizeRange": [20, 60]
+  },
+  "@TITLE_H1": {
+    "font": "Title SDF",
+    "size": 80,
+    "characterSpacing": -4
+  },
+  "@TITLE_H1_HALF": {
+    "font": "Title SDF",
+    "size": 40,
+    "characterSpacing": -4
+  },
+  "@TITLE_H2": {
+    "font": "Title SDF",
+    "size": 70,
+    "characterSpacing": -4
+  },
+  "@TITLE_H3": {
+    "font": "Title SDF",
+    "size": 50,
+    "characterSpacing": -4
+  },
+  "@TITLE_H3_AUTO_SIZE": {
+    "font": "Title SDF",
+    "enableAutoSize": true,
+    "sizeRange": [40, 50],
+    "characterSpacing": -4
+  },
+  "@BUTTON": {
+    "font": "Title SDF",
+    "size": 40,
+    "characterSpacing": -4
+  },
+  "@BUTTON_AUTO_SIZE": {
+    "font": "Title SDF",
+    "enableAutoSize": true,
+    "sizeRange": [30, 40],
+    "characterSpacing": -4
+  },
+  "@TOGGLE": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "size": 36,
+    "characterSpacing": -4
+  },
+  "@OVER_RECORD_SUB_NAME": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "size": 40,
+    "characterSpacing": -4
+  },
+  "@CARD_INFO_NAME": {
+    "font": "Title SDF",
+    "enableAutoSize": true,
+    "sizeRange": [40, 60],
+    "wordSpacing": -20,
+    "characterSpacing": -4
+  },
+  "@CARD_INFO_DESC": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "enableAutoSize": true,
+    "sizeRange": [18, 40],
+    "wordSpacing": 0,
+    "characterSpacing": -1.5
+  },
+  "@CARD_INFO_TYPE": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "enableAutoSize": true,
+    "sizeRange": [20, 30],
+    "characterSpacing": -4
+  },
+  "@NOTE_ITEM_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 30,
+      "sm": 35,
+      "md": 40,
+      "lg": 45,
+      "xl": 55,
+      "xxl": 65
+    },
+    "characterSpacing": -4
+  },
+  "@SETTING_OPTION_ITEM": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "size": 22,
+    "characterSpacing": -4
+  },
+  "@SETTING_OPTION_TITLE": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "size": 28,
+    "characterSpacing": -4
+  },
+  "@EXECUTION_DAY_TITLE": {
+    "font": "Title SDF",
+    "size": 60,
+    "wordSpacing": -10,
+    "characterSpacing": -6
+  },
+  "@PRESTIGE_TITLE": {
+    "font": "es/Sweynheim&Pannartz-Subiaco-ProtoRoman120R SDF",
+    "enableAutoSize": true,
+    "sizeRange": [40, 60],
+    "characterSpacing": -4
+  },
+  "@HELP_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "size": 50,
+    "characterSpacing": -4
+  },
+  "@GUIDE_TEXT": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "size": 75,
+    "characterSpacing": -4
+  },
+  "NEXT_DAY": {
+    "font": "",
+    "isRightToLeftText": false,
+    "size": 69,
+    "characterSpacing": -4
+  },
+  "PROMPT_CHANGE_NAME_TITLE": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 40,
+      "sm": 45,
+      "md": 50,
+      "lg": 55,
+      "xl": 65,
+      "xxl": 75
+    },
+    "characterSpacing": -4
+  },
+  "PROMPT_CHANGE_NAME_INPUT_PLACEHOLDER": {
+    "font": "es/Altinn-DINCondensed SDF",
+    "css_size": {
+      "xs": 40,
+      "sm": 45,
+      "md": 50,
+      "lg": 55,
+      "xl": 65,
+      "xxl": 75
+    },
+    "characterSpacing": -4
+  },
+  "ADD_TO_WISHLIST": {
+    "font": "Title SDF",
+    "size": 60,
+    "characterSpacing": -4,
+    "wordSpacing": -6
+  },
+  "@OVER_TITLE": {
+    "font": "es/CardTitle SDF",
+    "material": "es/CardTitle SDF - SudanTitle",
+    "enableAutoSize": true,
+    "sizeRange": [100, 120],
+    "characterSpacing": -4
+  },
+  "@OVER_SUBTITLE": {
+    "font": "es/CardTitle SDF",
+    "material": "es/CardTitle SDF - SudanTitle",
+    "size": 50
+  },
+  "@PRESITGE_COUNT": {
+    "font": "Title SDF",
+    "css_size": {
+      "xs": 32,
+      "sm": 38,
+      "md": 44,
+      "lg": 50,
+      "xl": 56,
+      "xxl": 62
+    },
+    "characterSpacing": -20
+  }
+}
