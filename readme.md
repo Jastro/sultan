@@ -54,7 +54,7 @@ Would you like to help refine the translation?
 
 ---
 
-## 🪄 Credits
+## 🧠 Credits
 
 Translation curated and edited by the community  
 Original language parser and base strings via [mololab/json-translator](https://github.com/mololab/json-translator)  
