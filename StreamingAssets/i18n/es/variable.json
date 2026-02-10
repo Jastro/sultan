@@ -63,5 +63,12 @@
   "slide/1-4": "slide/1-4",
 
   "gain": "shop/en/item_gain",
-  "buff": "shop/en/item_buff"
+  "buff": "shop/en/item_buff",
+
+  "MAIN_UI_TITLE_NUMBER_NOMAL_MOBILE": "<sprite=7><sprite=7><sprite=7><sprite=4>",
+  "MAIN_UI_TITLE_NUMBER_TODAY_MOBILE": "<sprite=7><sprite=7><sprite=7><sprite=2>",
+  "MAIN_UI_TITLE_NUMBER_LAST_MOBILE": "<sprite=6><sprite=6><sprite=6><sprite=6>",
+  "MAIN_UI_TITLE_NUMBER_RED_MOBILE": "<sprite=6><sprite=6><sprite=6><sprite=5>",
+  "MAIN_UI_TITLE_NUMBER_RED_TODAY_MOBILE": "<sprite=6><sprite=6><sprite=6><sprite=3>",
+  "QUEST_FAVOUR_TEXT_FORMAT_MOBILE": "<indent=5%><i><color=#A28E58>{0}</color></i>"
 }
