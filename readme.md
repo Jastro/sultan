@@ -1,4 +1,4 @@
-![Logo del juego en español](https://i.imgur.com/yBpTNXj.jpeg))
+![Logo del juego en español](https://i.imgur.com/yBpTNXj.jpeg)
 
 # Sultan's Game – Spanish Translation
 
