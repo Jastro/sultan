@@ -3,7 +3,7 @@
 
   //  配置版本, 目前就直接用一个当前时间的时间戳来标记了
   //  特定版本升级的时候提一下就好, 平常不用动
-  "configVersion": 20241207130815,
+  "configVersion": 20260306160333,
 
   //  默认语言代码, 这个主要是方便正确处理异常
   "default_language_code": "en",
@@ -86,6 +86,32 @@
     "equipment"
   ],
   "athor_auto_classify_tag": "other",
+  "gallery_card_type": [
+    "char",
+    "other_char",
+    "weapon_equip",
+    "treasure",
+    "nonhuman",
+    "animal",
+    "consumables",
+    "sudancard",
+    "food",
+    "book",
+    "symbolism",
+    "army",
+    "others"
+  ],
+  "gallery_card_show_items": [
+    "item",
+    "sudan",
+    "monster",
+    "lock_86"
+  ],
+  "settle_card_bad_state": [
+    "cursed",
+    "hurt",
+    "incapacitate"
+  ],
   // 切换背景音乐过渡时间
   "fade_in_transition_time": {
     "Default": 1.5,
@@ -142,7 +168,15 @@
     "MouseWheel_Gamepad": [],
     "MouseRightClick_Gamepad": [],
     "MouseLeftClick_Gamepad": [],
-    "MouseDrag_Gamepad": []
+    "MouseDrag_Gamepad": [],
+    "TouchClick_Gamepad": [],
+    "TouchSwipeUpDown_Gamepad": [],
+    "TouchSwipeLeftRight_Gamepad": [],
+    // 触屏
+    "TouchClick": ["touch_click_1", "touch_click_2"],
+    "TouchSwipeUpDown": ["touch_swipe_up_down_1", "touch_swipe_up_down_2"],
+    "TouchSwipeLeftRight": ["touch_swipe_left_right_1", "touch_swipe_left_right_2"],
+    "MouseRightClick_Touch": []
   },
   //  替换
   "harmonious_replacer": {
@@ -376,6 +410,10 @@
       "full": true
     }
   ],
+  //  文本链接
+  "text_link": {
+    "steam_workshop_legal_agreement": "https://steamcommunity.com/sharedfiles/workshoplegalagreement"
+  },
 
   //  以下都是非系统参数配置, 可能需要多语言翻译的
   "REDRAW_NOTICE": "<line-height=-2.1em><align=right><voffset=-2><size=120><link=\"redraw\"><sprite=4></link></size></voffset> <b>x</b><voffset=10><size=80>{1}</size></voffset>\t</align>\n</line-height>",
@@ -397,6 +435,12 @@
   "MAIN_UI_TITLE_NUMBER_LAST": "<sprite=6><sprite=6><sprite=6><sprite=6><sprite=6><sprite=6>",
   "MAIN_UI_TITLE_NUMBER_RED": "<sprite=6><sprite=6><sprite=6><sprite=6><sprite=6><sprite=5>",
   "MAIN_UI_TITLE_NUMBER_RED_TODAY": "<sprite=6><sprite=6><sprite=6><sprite=6><sprite=6><sprite=3>",
+
+  "MAIN_UI_TITLE_NUMBER_NOMAL_MOBILE": "<sprite=7><sprite=7><sprite=7><sprite=4>",
+  "MAIN_UI_TITLE_NUMBER_TODAY_MOBILE": "<sprite=7><sprite=7><sprite=7><sprite=2>",
+  "MAIN_UI_TITLE_NUMBER_LAST_MOBILE": "<sprite=6><sprite=6><sprite=6><sprite=6>",
+  "MAIN_UI_TITLE_NUMBER_RED_MOBILE": "<sprite=6><sprite=6><sprite=6><sprite=5>",
+  "MAIN_UI_TITLE_NUMBER_RED_TODAY_MOBILE": "<sprite=6><sprite=6><sprite=6><sprite=3>",
 
   "START_UI_LOGO": "Image/logo/logo_zhCN",
   "OVER_UI_LOGO": "Image/logo/logo_zhCN",
@@ -434,6 +478,7 @@
   "RITE_SETTLEMENT_RESULT_NORMAL_WAITING_Gamepad": "<sprite=0><indent=80><sprite anim=\"5,11,3\">  {0}</indent>",
 
   "QUEST_FAVOUR_TEXT_FORMAT": "<indent=30%>\n\n\n\n<i><color=#A28E58>{0}</color></i>",
+  "QUEST_FAVOUR_TEXT_FORMAT_MOBILE": "<indent=5%><i><color=#A28E58>{0}</color></i>",
 
   "PRESTIGE_CHANGE_POSITIVE": "<color=#FFDD00>+{0}</color>",
   "PRESTIGE_CHANGE_NEGATIVE": "<color=#FF1600>-{0}</color>",

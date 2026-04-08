@@ -81,48 +81,37 @@
   "WIZARD_SHOW_LEFT_SUDAN_CARD_CARD_FORMAT": "{1} {0} x{2}",
   "WIZARD_SHOW_LEFT_SUDAN_CARD_CARD_SEPERATOR": ",",
   "WIZARD_SHOW_LEFT_SUDAN_CARD_AND_ALL": "<color=white>{0}</color>/{1}",
-
   "WIZARD_SHOW_HOW_LONG_ALIVE": "Has sobrevivido {0} día.",
   "WIZARD_SHOW_HOW_LONG_ALIVE_PLURAL": "Has sobrevivido {0} días.",
-
   "WIZARD_REDARW_NO_MORE_TIMES": "Has agotado tus re-robos. Debes esperar {0} día.",
   "WIZARD_REDARW_NO_MORE_TIMES_PLURAL": "Has agotado tus re-robos. Debes esperar {0} días.",
   "WIZARD_REDRAW_NO_MORE_CARDS": "No queda ninguna carta del Sultán.",
-
   "BACK_TO_ROUND_BEGIN_TIPS": "Volver al inicio de este turno",
   "BACK_TO_LAST_ROUND_BEGIN_TIPS": "Volver al inicio del turno anterior",
-
   "SORT_HAND_CARD_TIPS": "Haz clic para ordenar la mano",
-
   "GAME_OVER_PROMPT": "¿Aceptas esta derrota?",
   "GAME_OVER_BACK_TO_ROUND_BEGIN": "Volver al inicio de este turno",
   "GAME_OVER_EXIT": "Terminar",
-
   "SETTING_PANEL": "Ajustes",
   "SCREEN_MODE_SETTING": "Modo de pantalla",
   "SCREEN_SOUND_SETTING": "Gráficos y audio",
   "OTHER_SETTING": "Otros ajustes",
-
   "SCREEN_SETTING_TITLE": "Gráficos",
   "SOUND_SETTING_TITLE": "Audio",
   "LANGUAGE_SETTING": "Idioma",
   "RESOLUTION_SETTING": "Resolución",
   "FONT_SIZE_SETTING": "Tamaño de fuente",
-
   "MUSIC_VALUE_SLIDER": "Volumen de música",
   "SOUND_VALUE_SLIDER": "Volumen de efectos",
-
   "DATA_COLLECT_TOGGLE": "Recolección de datos:",
   "HARMONIOUS_TOGGLE": "Modo streamer:",
   "DATA_COLLECT_TIPS": "Solo registramos las elecciones de los jugadores en los eventos y no almacenamos información personal como nombres.",
   "HARMONIOUS_TIPS": "Algunas escenas se han modificado para que los streamers de todas las regiones puedan retransmitir sin problemas.",
-
   "FONT_SIZE_XS": "Extra pequeña",
   "FONT_SIZE_SM": "Pequeña",
   "FONT_SIZE_MD": "Mediana",
   "FONT_SIZE_LG": "Grande",
   "FONT_SIZE_XL": "Extra grande",
-
   "POINT_SHOP": "Libro del Destino",
   "POINT_SHOP_TITLE": "Libro del Destino",
   "POINT_SHOP_DESC": "Todo lo que sucede—gozo y pesar—será tu apuesta para inclinar la balanza del destino: los Puntos de Destino.\n\n<align=center><size=160><sprite=13></size></align>\n\nGasta Puntos de Destino para obtener dones que te acerquen a los secretos velados en este relato.\n\n<sprite=0><indent=10%>Resuelve cartas del Sultán o completa historias de Las mil y una noches para ganar Puntos de Destino.</indent>\n<sprite=0><indent=10%>Necesitas activar un don para usarlo en tus travesías; los dones se activan automáticamente al comprarlos.</indent>\n<sprite=0><indent=10%>Solo puedes activar o desactivar dones al comenzar una nueva partida. Una vez iniciado el relato, los hilos del destino no se pueden alterar.</indent>",
@@ -173,16 +162,13 @@
   "MAIN_HELP_BAG_PROMPT": "Cambiar y utilizar tus ranuras de cartas",
   "MAIN_HELP_GOLD_PROMPT": "Usar un Dado de Oro en un chequeo garantiza un éxito",
   "MAIN_HELP_BACK_PROMPT": "Si tienes cargas suficientes, puedes regresar al <b><color=white><size=86>día anterior</size></color></b> en cualquier momento",
-
   "CARD_INFO_HELP_RARE_PROMPT": "Indica la rareza de la carta. Oro > Plata > Bronce > Piedra",
   "CARD_INFO_HELP_MAIN_PROMPT": "Muestra el estado, atributos y etiquetas de la carta; todo esto influye directamente en su uso durante los Rituales",
   "CARD_INFO_HELP_EQUIP_PROMPT": "Si la carta es un <b><color=white><size=86>Personaje</size></color></b> y es tu seguidor, arrastra cartas con la etiqueta <b><color=white><size=86>Equipamiento</size></color></b> sobre él para que las equipe",
   "CARD_INFO_HELP_EQUIP_SLOT_PROMPT": "Si la carta es un <b><color=white><size=86>Personaje</size></color></b>, aquí verás los tipos de <b><color=white><size=86>Equipamiento</size></color></b> que puede llevar. Solo se permite una pieza de cada tipo: [Arma] [Atuendo] [Accesorio]",
-
   "RITE_HELP_MAIN_PROMPT": "Coloca la carta adecuada en la ranura correspondiente para realizar el Ritual.\nLas ranuras con icono rojo son obligatorias; sin ellas el Ritual no avanzará",
   "RITE_HELP_DESC_PROMPT": "Aquí encontrarás pistas sobre cómo ejecutar el Ritual y los posibles resultados",
   "RITE_HELP_TIME_PROMPT": "Indica cuántos días se necesitan para completar el Ritual",
-
   "BEGIN_GUIDE_RIGHT_CLICK_SLOT_PROMPT": "Haz clic en una ranura para filtrar las cartas disponibles",
   "BEGIN_GUIDE_RIGHT_CLICK_CARD_PROMPT": "Haz clic derecho en una carta para colocarla rápidamente en una ranura",
   "BEGIN_GUIDE_FILL_COIN_PROMPT": "Haz doble clic derecho en una carta de Moneda de Oro para cubrir automáticamente el coste de las cartas de Extravío",
@@ -404,7 +390,6 @@
   "JOB_插图画师": "插图画师",
   "JOB_L2D": "L2D",
   "JOB_表情包": "表情包",
-
   "CARD_RARE_EXT_1": "Piedra",
   "CARD_RARE_EXT_2": "Bronce",
   "CARD_RARE_EXT_3": "Plata",
@@ -508,5 +493,7 @@
   "MOBILE_ESCPANEL_HELP_BAG_DESC_1": "Si está activado, las cartas nuevas se ordenarán automáticamente según tu configuración actual",
   "MOBILE_RITE_LIST_TITLE": "Lista de eventos",
   "MOBILE_RITE_LIST_START_RITE_TIP": "Ningún evento en curso",
-  "MOBILE_RITE_LIST_OTHER_RITE_TIP": "Todos los eventos resueltos"
+  "MOBILE_RITE_LIST_OTHER_RITE_TIP": "Todos los eventos resueltos",
+  "JOB_成就": "成就",
+  "JOB_结局CG": "结局CG"
 }
