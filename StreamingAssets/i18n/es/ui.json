@@ -495,5 +495,14 @@
   "MOBILE_RITE_LIST_START_RITE_TIP": "Ningún evento en curso",
   "MOBILE_RITE_LIST_OTHER_RITE_TIP": "Todos los eventos resueltos",
   "JOB_成就": "成就",
-  "JOB_结局CG": "结局CG"
+  "JOB_结局CG": "结局CG",
+  "GALLERY_ACHIEVEMENT_BTN": "Logro",
+  "GALLERY_ACHIEVEMENT_ITEM_COLOR": "<color=#DACD98>{0}</color>",
+  "GALLERY_ACHIEVEMENT_ITEM_COLOR_NOT_ACHIEVE": "<color=#C3C3C3>{0}</color>",
+  "GALLERY_ACHIEVEMENT_ITEM_HIDDEN_DESC": "<color=#C3C3C3>Los detalles se revelarán al desbloquearse.</color>",
+  "GALLERY_ACHIEVEMENT_ITEM_HIDDEN_TITLE": "<color=#C3C3C3>Logro Secreto</color>",
+  "GALLERY_ACHIEVEMENT_NOTIFY_TITLE": "",
+  "GALLERY_OVER_BTN_CG": "Colección",
+  "GALLERY_OVER_BTN_MEMORY": "Galería ({0}/{1})  <link=over><sprite=36></link>",
+  "GALLERY_OVER_CG_LOCK_TIPS": "Aún no habéis saboreado un destino semejante. Probad a desbloquear distintos finales del juego."
 }
